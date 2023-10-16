@@ -1,2 +1,2 @@
 # The-structure-of-Tanzania-Twitter-network
-A project for quantifying the structure of Tanzania Twitter social network. We measure the statistical properties of the network and compare them with those of the USA, Japan and Brazil. We also use the friend of a friend model of network formation to reproduce the observed properties of the Tanzania Twitter network.
+This project is focused on a comprehensive analysis of Tanzania's Twitter social network. It involves the systematic measurement of network statistics and a comparative study with Twitter networks in the USA, Japan, and Brazil. The project also incorporates a network formation model, specifically the friend-of-a-friend model, to simulate the structural attributes of the Tanzania Twitter network.
